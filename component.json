@@ -1,0 +1,12 @@
+{
+    "name": "generate-object-property",
+    "description": "Generate safe JS code that can used to reference a object property",
+    "repos": "https://github.com/mafintosh/generate-object-property",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "is-property": "^1.0.0"
+    },
+    "main": "index.js",
+    "version": "1.1.0"
+}
